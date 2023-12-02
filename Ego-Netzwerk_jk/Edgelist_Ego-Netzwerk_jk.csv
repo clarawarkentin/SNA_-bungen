@@ -1,0 +1,5 @@
+from,to,weight,relation
+jk,pk,1,1
+jk,cb,1,3
+jk,cw,2,3
+jk,hk,1,2
